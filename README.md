@@ -5,7 +5,7 @@ Juncture essay used for Introduction to Digital Public Humanities, Fall 2022
 <param ve-config 
        title="Introduction to Digital Public Humanities"
        author="Kristopher Purzycki"
-       banner="[https://photos.app.goo.gl/eU7y8sCVKrtFCudZ7](https://collections.lib.uwm.edu/digital/iiif/san/44/full/full/0/default.jpg)" 
+       banner="https://collections.lib.uwm.edu/digital/iiif/san/44/full/full/0/default.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and

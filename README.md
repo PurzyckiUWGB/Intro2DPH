@@ -1,10 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Introduction to Digital Humanities"
+       author="Kristopher Purzycki"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/58/Network_graph_visualization_showing_images_and_users.png" 
-       layout="vertical">
+       layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either

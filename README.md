@@ -5,7 +5,8 @@ Juncture essay used for Introduction to Digital Public Humanities, Fall 2022
 <param ve-config 
        title="Introduction to Digital Public Humanities"
        author="Kristopher Purzycki"
-       banner="https://collections.lib.uwm.edu/digital/iiif/san/44/full/full/0/default.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
